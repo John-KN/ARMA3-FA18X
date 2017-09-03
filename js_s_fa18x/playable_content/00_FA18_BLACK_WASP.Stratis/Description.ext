@@ -1,0 +1,12 @@
+respawn=4;
+respawndelay=30;
+respawnDialog = 0;
+
+disabledAi=0;
+AiKills=1;
+
+author = "John_Spartan & Saul"; 
+onLoadName = "F/A-18X BLACK WASP"; 
+onLoadMission = "Showcase mission for splendid NATO fighter jet";
+loadScreen = "js_loadscreen.paa";
+
